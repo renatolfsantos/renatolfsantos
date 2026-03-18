@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">- 🌱 I’m always learning new **Frameworks, Programming Languages and other tech skills**</p>
+<p align="center">- 🌱 I’m always learning new Frameworks, Programming Languages and other tech skills</p>
 
 ###
 
