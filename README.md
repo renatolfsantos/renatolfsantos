@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Renato and I'm a developer, from São Paulo, Brazil</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Renato and I'm a developer from São Paulo, Brazil</h2>
 
 ###
 
