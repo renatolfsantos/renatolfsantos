@@ -59,6 +59,13 @@
 
 <br clear="both">
 
+```text
+🎮════════════════════════════════════🎮
+> INSERT COIN
+> PRESS START
+> LOADING GALAGA...
+🎮════════════════════════════════════🎮
+```
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renatolfsantos/renatolfsantos/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renatolfsantos/renatolfsantos/pacman-output/galaga-contribution-graph.svg?game=galaga">
