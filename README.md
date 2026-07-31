@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/renato-luis-ferreira-dos-santos-8394a53b0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://renatoluiz.itch.io" target="_blank">
+  <a href="https://itch.io/profile/renatoluiz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="itch logo"  />
   </a>
   <a href="https://www.instagram.com/renato_lfsantos" target="_blank">
